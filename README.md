@@ -149,10 +149,6 @@ Common issues and solutions:
    - Monitor per-class metrics
    - Consider modifying class weights
 
-## Contributing
-
-Feel free to submit issues and enhancement requests!
-
 ## License
 
 This project is licensed under the Apache 2.0 License - see the LICENSE file for details.
