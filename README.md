@@ -1,4 +1,4 @@
-# Text Classification with Hugging Face
+# Fine Tuning for Text Classification with Transformers
 
 This repository contains a robust implementation of a text classification system using DistilRoBERTa, designed to handle imbalanced datasets with multiple classes. The implementation includes features such as proper data preprocessing, class balancing, model training with early stopping, and comprehensive metric logging using MLflow.
 
